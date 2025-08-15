@@ -1,2 +1,2 @@
 hi this is created in remote repository
-second line inserted using local repository
+second line removed
